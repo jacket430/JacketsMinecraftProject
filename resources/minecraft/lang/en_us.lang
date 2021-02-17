@@ -1,0 +1,78 @@
+ == Planks ==
+tile.wood.oak.name=Oak Planks
+tile.wood.spruce.name=Spruce Planks
+tile.wood.birch.name=Birch Planks
+tile.wood.jungle.name=Jungle Planks
+tile.wood.acacia.name=Acacia Planks
+tile.wood.big_oak.name=Dark Oak Planks
+ == Logs ==
+tile.log.oak.name=Oak Log
+tile.log.spruce.name=Spruce Log
+tile.log.birch.name=Birch Log
+tile.log.jungle.name=Jungle Log
+tile.log.acacia.name=Acacia Log
+tile.log.big_oak.name=Dark Oak Log
+ == Sandstone ==
+tile.sandStone.smooth.name=Cut Sandstone
+tile.redSandStone.smooth.name=Cut Red Sandstone
+ == Stone ==
+tile.stoneSlab.stone.name=Smooth Stone Slab
+tile.quartzBlock.lines.name=Quartz Pillar
+tile.stoneMoss.name=Mossy Cobblestone
+ == Redstone ==
+tile.pressurePlateWood.name=Oak Pressure Plate
+tile.weightedPlate_light.name=Light Weighted Pressure Plate
+tile.weightedPlate_heavy.name=Heavy Weighted Pressure Plate
+item.redstone.name=Redstone Dust
+tile.button.name=Oak Button
+tile.trapdoor.name=Oak Trapdoor
+ == Dyes ==
+item.dyePowder.red.name=Red Dye
+item.dyePowder.green.name=Green Dye
+item.dyePowder.yellow.name=Yellow Dye
+ == Other ==
+tile.endPortalFrame.name=End Portal Frame
+tile.anvil.slightlyDamaged.name=Chipped Anvil
+tile.anvil.veryDamaged.name=Damaged Anvil
+tile.doublePlant.grass.name=Tall Grass
+item.sign.name=Oak Sign
+item.end_crystal.name=§bEnd Crystal
+item.elytra.name=§eElytra
+tile.beacon.name=§bBeacon
+item.milk.name=Milk Bucket
+item.seeds.name=Wheat Seeds
+item.expBottle.name=§eBottle o' Enchanting
+item.netherStar.name=§eNether Star
+item.record.name=§bMusic Disc
+item.enchantedBook.name=§eEnchanted Book
+item.totem.name=§eTotem of Undying
+item.dragon_breath.name=§eDragon's Breath
+tile.structureBlock.name=§dStructure Block
+tile.commandBlock.name=§dCommand Block
+tile.repeatingCommandBlock.name=§dRepeating Command Block
+tile.chainCommandBlock.name=§dChain Command Block
+ == Notes ==
+attribute.name.generic.attackDamage=§2 Attack Damage
+attribute.name.generic.attackSpeed=§2 Attack Speed
+item.modifiers.mainhand=§7When in main hand:
+item.modifiers.offhand=§7When in off hand:
+item.modifiers.feet=§7When on feet:
+item.modifiers.legs=§7When on legs:
+item.modifiers.chest=§7When on body:
+item.modifiers.head=§7When on head:
+attribute.name.generic.armor=§9Armor
+attribute.name.generic.armorToughness=§9Armor Toughness
+item.durability=§fDurability: %s / %s
+ == Food ==
+item.appleGold.name=§bGolden Apple
+item.fish.cod.raw.name=Raw Cod
+item.fish.cod.cooked.name=Cooked Cod
+item.fish.clownfish.raw.name=Tropical Fish
+ == Heads ==
+item.skull.skeleton.name=§eSkeleton Skull
+item.skull.wither.name=§eWither Skeleton Skull
+item.skull.zombie.name=§eZombie Head
+item.skull.char.name=§ePlayer Head
+item.skull.player.name=§e%s's Head
+item.skull.creeper.name=§eCreeper Head
+item.skull.dragon.name=§eDragon Head
