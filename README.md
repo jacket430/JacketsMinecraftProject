@@ -1,4 +1,7 @@
 # Big-Dogs-MC
+
 A Big Dogs Community Modpack
 
-It's very late and I don't feel like writing a proper description for this right now. :)
+Hi this is the page for the pack please be nice no negative comments please
+
+I'll finish this later ok
