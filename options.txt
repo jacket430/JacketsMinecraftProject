@@ -126,9 +126,9 @@ key_key.exchangers.void_items_mode_toggle:0
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:0
 key_key.hooked.fire:46
-key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemin:-200
 key_key.inventorysorter.itemout:-201
+key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.sort:-98
 key_Open MPS Keybind GUI:0
 key_Go Down (MPS Flight Control):44
 key_Cycle Tool Backward (MPS):0
@@ -137,9 +137,6 @@ key_Cosmetic (MPS):0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
 key_key.toastcontrol.clear:36
-key_Strip World:211
-key_Dress World:210
-key_Inspect Block:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -184,9 +181,6 @@ key_key.cofh.multimode:47
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
 key_binniecore.key.hold.for.help.tooltips:15
-key_key.keyExtraInvo:0
-key_key.keyWheel:19
-key_key.keyExtraCraftin:0
 key_key.toggleLiquids:0
 key_key.toggleVisible:0
 key_key.settings_menu:34
@@ -245,7 +239,7 @@ key_pi.key.et_gui:23
 key_pi.key.et_world:23:CONTROL
 key_key.refinedstorageaddons.openWirelessCraftingGrid:34:CONTROL
 key_xreliquary.keybind.fortune_coin:0
-key_signpic.key.gui:43
+key_signpic.key.gui:210
 key_keybind.simplyjetpacks.gui:44
 key_keybind.simplyjetpacks.engine:34
 key_keybind.simplyjetpacks.charger:25
