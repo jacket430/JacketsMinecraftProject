@@ -75,7 +75,7 @@ key_key.spectatorOutlines:0
 key_key.swapHands:33
 key_key.saveToolbarActivator:0
 key_key.loadToolbarActivator:0
-key_key.advancements:38
+key_key.advancements:39
 key_key.hotbar.1:2
 key_key.hotbar.2:3
 key_key.hotbar.3:4
